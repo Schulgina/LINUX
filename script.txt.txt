@@ -1,0 +1,11 @@
+Anna Schulgina
+
+
+#!/bin/bash
+for run in {1..10}
+do
+touch /opt/39_40_evening_b/schulgina/{1..10}$(date +%d%m%y).txt
+done
+
+
+ 
